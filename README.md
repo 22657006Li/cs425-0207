@@ -1,6 +1,6 @@
-# CS425 Assignment Grading System - Starter Codebase
+# CS425 Assignment Grading System - Group 8
 
-Welcome to the starter codebase for the **Software Engineering and Project Management** assignment. This project provides a functional, Dockerized web application for grading student assignments. Its purpose is to allow you to focus on project management rather than building a system from scratch.
+Welcome to the codebase for the **Software Engineering and Project Management** assignment. This project provides a functional, Dockerized web application for grading student assignments. Its purpose is to allow you to focus on project management rather than building a system from scratch.
 
 Project Overview
 
